@@ -1,0 +1,2 @@
+﻿Dec 17, 2018 12:04:31 PM jdm.view.LoginScreenController handleSignInAction
+INFO: test logged in
